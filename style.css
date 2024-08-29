@@ -12,9 +12,8 @@ header li {
 }
 
 .container {
-    width: 1366px;
+    max-width: 90%;
     margin: 0 auto 0 auto;
-    text-align: left;
 }
 
 .articles {
